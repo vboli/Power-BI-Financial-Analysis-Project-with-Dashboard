@@ -21,7 +21,8 @@ Check the pie chart to understand how revenue is split across different regions.
 Use the revenue trend graphs to monitor performance fluctuations.
 View the sales reps’ table and rank-based treemap to determine key contributors.
 
-![Preview of the Dashboard](https://github.com/user-attachments/assets/022bdd74-cc81-4e17-a3f0-f4e990d1a65d)
+# Preview of the Dashboard
+![App Screenshot](https://github.com/user-attachments/assets/022bdd74-cc81-4e17-a3f0-f4e990d1a65d)
 
 ## Contribution
 Feel free to fork this repository, make changes, and submit pull requests to enhance the dashboard or add new features.

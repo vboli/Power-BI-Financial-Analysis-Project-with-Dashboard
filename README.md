@@ -16,13 +16,9 @@ https://app.powerbi.com/groups/me/reports/edd965b7-1344-4cfe-b3f0-be6255614ab4/9
 - Monthly Revenue Trends: A bar and line chart displaying total and average revenue trends over months.
 
 # Steps to Use the Dashboard
-Filter Data by Year, Quarter, and Rank:-
 Use the slicers on the left to filter the dashboard based on different years, quarters, and store ranks.
-Analyze Revenue Distribution:-
 Check the pie chart to understand how revenue is split across different regions.
-Track Performance Over Time:-
 Use the revenue trend graphs to monitor performance fluctuations.
-Identify Top Revenue Generators:-
 View the sales reps’ table and rank-based treemap to determine key contributors.
 
 ![Preview of the Dashboard](https://github.com/user-attachments/assets/022bdd74-cc81-4e17-a3f0-f4e990d1a65d)

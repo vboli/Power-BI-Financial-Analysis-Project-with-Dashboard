@@ -25,7 +25,7 @@ Use the revenue trend graphs to monitor performance fluctuations.
 Identify Top Revenue Generators:-
 View the sales reps’ table and rank-based treemap to determine key contributors.
 
-![Preview of the Dashboard](https://github.com/user-attachments/assets/7c103606-f5d6-4a9d-98cd-523dd3acfbe3)
+![Preview of the Dashboard](https://github.com/user-attachments/assets/022bdd74-cc81-4e17-a3f0-f4e990d1a65d)
 
 ## Contribution
 Feel free to fork this repository, make changes, and submit pull requests to enhance the dashboard or add new features.
